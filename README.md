@@ -11,4 +11,4 @@ Notas:
 Português Brasil.
 
 #### Link de Download do App
-<a href="">Clique aqui</a>
+<a href="https://github.com/tonho991/vgassist/raw/master/VGAssist.apk">Clique aqui</a>
