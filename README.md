@@ -1,14 +1,9 @@
-# VGAssist
-Leitor e Reprodutor de Notificações do WhatsApp 
+# VGAssist: Leitor e Reprodutor de Notificações do WhatsApp
 
-O aplicativo foi feito no AIDE usando o Sketchware para compilar.
-Seu objetivo é ajudar tanto para deficientes visuais quanto para
-motorista que queiram ouvirem as mensagens de voz e de texto
-enviadas no WhatsApp. 
+Este aplicativo, desenvolvido no AIDE com o auxílio do Sketchware para compilação, tem como propósito auxiliar tanto deficientes visuais quanto motoristas que desejam ouvir mensagens de voz e texto enviadas pelo WhatsApp.
 
-Notas:
- - O aplicativo está somente disponível para o
-Português Brasil.
+Observações:
+- Disponível exclusivamente em Português do Brasil.
 
-#### Link de Download do App
-<a href="https://github.com/tonho991/vgassist/releases">Clique aqui</a>
+#### Versões Disponíveis
+Para acessar as versões do aplicativo, [clique aqui](https://github.com/tonho991/vgassist/releases).
