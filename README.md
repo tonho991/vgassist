@@ -2,6 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Versão](https://img.shields.io/badge/Version-1.0-blue)
+<br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 Este aplicativo, desenvolvido no AIDE com o auxílio do Sketchware para compilação, tem como propósito auxiliar tanto deficientes visuais quanto motoristas que desejam ouvir mensagens de voz e texto enviadas pelo WhatsApp.
 
