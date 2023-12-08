@@ -12,4 +12,4 @@ Observações:
 Para acessar as versões do aplicativo, [clique aqui](https://github.com/tonho991/vgassist/releases).
 
 ## Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md).
